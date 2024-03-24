@@ -1,4 +1,12 @@
-### Hi there 👋
+### Machine Learning Engineer
+- Hello, I'm Ji-Hwan Lee, a **machine learning engineer** realizing social contribution through business.
+- Beyond merely solving business problems, I plan **AI services** to generate social value and pursue sustainable management for the future by realizing social contribution.
+- In projects, I mainly handle **idea planning, machine learning model research, code implementation, and presentations**.
+
+### Interest
+- Computer Vision (main)
+- GenAI, NLP (currently learning)
+- Data Literacy
 
 <!--
 **abcd-EGH/abcd-EGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
