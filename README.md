@@ -5,7 +5,7 @@
 
 ### Interest
 - Computer Vision (main task)
-- GenAI, NLP (currently learning)
+- GenAI, NLP, Multi Modal (currently learning)
 - Data Literacy
 
 <div align=center>
