@@ -1,7 +1,7 @@
 ### Machine Learning Engineer
 - Hello, I'm Ji-Hwan Lee, a **machine learning engineer** realizing social contribution through business.
 - Beyond merely solving business problems, I plan **AI services** to generate social value and pursue sustainable management for the future by realizing social contribution.
-- In projects, I mainly handle **idea planning, machine learning model research, modeling code implementation, and presentations**.
+- In projects, I mainly handle **idea planning, fine tuning and implementation for ML model serving, and presentations**.
 
 ### Interest
 - Computer Vision (main task)
