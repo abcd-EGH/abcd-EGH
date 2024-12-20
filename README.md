@@ -4,15 +4,18 @@
 - In projects, I mainly handle **idea planning, fine tuning and implementation for ML model serving, and presentations**.
 
 ### Interest
-- Computer Vision (main task)
-- GenAI, NLP, Multi Modal (currently learning)
-- Data Literacy
+- Computer Vision, GenAI (main task)
+- Multi Modal, Time Series (Study in Process)
+
+### Teck Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
 <div align=center>
 
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion)](https://abcdegh.notion.site/ML-Engineer-Portfolio-3764d72583d34eea94b04d73022558ab?pvs=4)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/abcd.e_gh)
+[![GitHub Pages Badge](https://img.shields.io/badge/GitHub.io-222222?style=flat-square&logo=github&logoColor=white)](https://abcd-egh.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:wlghks7790@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/abcd.e_gh)
 </div>
 <!--
 **abcd-EGH/abcd-EGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
