@@ -1,7 +1,7 @@
-### Machine Learning Engineer
-- Hello, I'm Ji-Hwan Lee, a **machine learning engineer** realizing social contribution through business.
-- Beyond merely solving business problems, I plan **AI services** to generate social value and pursue sustainable management for the future by realizing social contribution.
-- In projects, I mainly handle **idea planning, fine tuning and implementation for ML model serving, and presentations**.
+## AI Engineer
+- Welcome to my Github! I'm **Ji-Hwan Lee**, an **AI engineer** studying persuasive problem definition and problem-solving skills through the application of AI.
+- In my repositories, you can explore various AI projects, including Vision, GenAI, and Time Series.
+- In projects, I take the lead not only in implementing code but also in idea planning and presentations, which I genuinely enjoy!
 
 ### Interest
 - Computer Vision, GenAI (main task)
@@ -9,10 +9,11 @@
 
 ### Teck Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
 <div align=center>
-
+<br>
+  
 [![GitHub Pages Badge](https://img.shields.io/badge/GitHub.io-222222?style=flat-square&logo=github&logoColor=white)](https://abcd-egh.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:wlghks7790@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/abcd.e_gh)
