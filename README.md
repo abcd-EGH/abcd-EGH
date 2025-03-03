@@ -3,8 +3,8 @@
 - In my repositories, you can explore various AI projects, including Vision, GenAI, and Time Series.
 - In projects, I take the lead not only in implementing code but also in idea planning and presentations, which I genuinely enjoy!
 
-### Interest
-- Domain Adaptation, Computer Vision, Generative Models
+### Interests
+- Domain Adaptation, Generative Models
 
 ### Teck Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
