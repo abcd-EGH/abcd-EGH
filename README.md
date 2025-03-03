@@ -4,8 +4,7 @@
 - In projects, I take the lead not only in implementing code but also in idea planning and presentations, which I genuinely enjoy!
 
 ### Interest
-- Computer Vision, GenAI (main task)
-- Multi Modal, Time Series (Study in Process)
+- Domain Adaptation, Computer Vision, Generative Models
 
 ### Teck Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
