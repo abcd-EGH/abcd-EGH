@@ -1,10 +1,7 @@
-## AI researcher
-- Welcome to my Github! I'm **Ji-Hwan Lee**, an **AI researcher** studying persuasive problem definition and problem-solving skills through the application of AI.
+## Studying AI
+- Welcome to my Github! I'm **Ji-Hwan Lee**, an student studying persuasive problem definition and problem-solving skills through AI.
 - In my repositories, you can explore various AI projects, including Computer Vision, GenAI, and Time Series.
 - In projects, I take the lead not only in implementing code but also in idea planning and presentations, which I genuinely enjoy!
-
-### Interests
-- Computer Vision, Generative Models
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
