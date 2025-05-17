@@ -1,4 +1,4 @@
-## Studying AI
+## abcd-EGH
 - Welcome to my Github! I'm **Ji-Hwan Lee**, an student studying persuasive problem definition and problem-solving skills through AI.
 - In my repositories, you can explore various AI projects, including Computer Vision, GenAI, and Time Series.
 - In projects, I take the lead not only in implementing code but also in idea planning and presentations, which I genuinely enjoy!
