@@ -1,5 +1,5 @@
-## AI Engineer
-- Welcome to my Github! I'm **Ji-Hwan Lee**, an **AI engineer** studying persuasive problem definition and problem-solving skills through the application of AI.
+## AI researcher
+- Welcome to my Github! I'm **Ji-Hwan Lee**, an **AI researcher** studying persuasive problem definition and problem-solving skills through the application of AI.
 - In my repositories, you can explore various AI projects, including Computer Vision, GenAI, and Time Series.
 - In projects, I take the lead not only in implementing code but also in idea planning and presentations, which I genuinely enjoy!
 
